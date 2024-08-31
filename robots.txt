@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yaumga.github.io/sitemap/sitemap.yguN.gz
